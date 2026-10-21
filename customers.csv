@@ -1,0 +1,1001 @@
+customer_id,age,city
+1,58,Mérida
+2,25,Monterrey
+3,19,Tijuana
+4,65,San Luis Potosí
+5,35,Ciudad de México
+6,33,Guadalajara
+7,32,Cancún
+8,26,Guadalajara
+9,65,Mérida
+10,24,Toluca
+11,61,Ciudad de México
+12,65,Cancún
+13,75,Puebla
+14,52,Ciudad de México
+15,23,Guadalajara
+16,55,Tijuana
+17,45,Tijuana
+18,20,Guadalajara
+19,19,Puebla
+20,23,Guadalajara
+21,31,Cancún
+22,32,Tijuana
+23,50,Ciudad de México
+24,56,Toluca
+25,19,Guadalajara
+26,53,Puebla
+27,30,San Luis Potosí
+28,63,San Luis Potosí
+29,59,Toluca
+30,62,Ciudad de México
+31,52,Toluca
+32,44,Toluca
+33,32,Tijuana
+34,46,Ciudad de México
+35,55,Puebla
+36,35,Ciudad de México
+37,69,Cancún
+38,73,Monterrey
+39,18,Querétaro
+40,66,Tijuana
+41,69,Monterrey
+42,28,Cancún
+43,62,Guadalajara
+44,45,Toluca
+45,39,Querétaro
+46,35,Cancún
+47,27,San Luis Potosí
+48,31,Monterrey
+49,66,Guadalajara
+50,39,Toluca
+51,27,Ciudad de México
+52,41,Morelia
+53,18,Morelia
+54,58,Cancún
+55,47,Guadalajara
+56,34,Veracruz
+57,34,San Luis Potosí
+58,42,Mérida
+59,34,Ciudad de México
+60,35,Cancún
+61,48,León
+62,45,Guadalajara
+63,37,Guadalajara
+64,37,Puebla
+65,40,León
+66,29,Ciudad de México
+67,32,Querétaro
+68,46,Toluca
+69,36,Querétaro
+70,19,Ciudad de México
+71,31,Morelia
+72,47,Ciudad de México
+73,35,León
+74,36,Ciudad de México
+75,47,Mérida
+76,64,Guadalajara
+77,28,Monterrey
+78,57,Aguascalientes
+79,21,Monterrey
+80,40,Tijuana
+81,22,Cancún
+82,57,Ciudad de México
+83,50,Querétaro
+84,54,Morelia
+85,26,Monterrey
+86,48,León
+87,31,Guadalajara
+88,32,Tijuana
+89,45,Guadalajara
+90,50,Guadalajara
+91,41,Cancún
+92,29,Ciudad de México
+93,26,Saltillo
+94,58,Querétaro
+95,46,Guadalajara
+96,48,Cancún
+97,69,Ciudad de México
+98,27,Querétaro
+99,74,León
+100,80,León
+101,61,Ciudad de México
+102,50,Ciudad de México
+103,29,Querétaro
+104,52,Guadalajara
+105,32,Veracruz
+106,38,Toluca
+107,34,Toluca
+108,42,Mérida
+109,56,Chihuahua
+110,30,Puebla
+111,24,Toluca
+112,24,Ciudad de México
+113,24,Veracruz
+114,18,Chihuahua
+115,25,Ciudad de México
+116,56,Monterrey
+117,30,Chihuahua
+118,42,Toluca
+119,21,Guadalajara
+120,40,Monterrey
+121,18,Querétaro
+122,28,Querétaro
+123,70,Ciudad de México
+124,30,Puebla
+125,54,León
+126,44,León
+127,36,Querétaro
+128,29,León
+129,56,Querétaro
+130,36,León
+131,59,Monterrey
+132,28,Ciudad de México
+133,39,Ciudad de México
+134,45,Toluca
+135,43,Ciudad de México
+136,21,León
+137,29,Ciudad de México
+138,35,León
+139,26,Monterrey
+140,47,Ciudad de México
+141,46,Monterrey
+142,18,Ciudad de México
+143,18,Guadalajara
+144,20,Ciudad de México
+145,40,Saltillo
+146,66,Puebla
+147,33,Tijuana
+148,42,Ciudad de México
+149,23,Ciudad de México
+150,23,Cancún
+151,18,Monterrey
+152,38,Guadalajara
+153,51,Ciudad de México
+154,33,Mérida
+155,58,Morelia
+156,41,Monterrey
+157,37,Monterrey
+158,45,Guadalajara
+159,45,Ciudad de México
+160,54,Guadalajara
+161,27,León
+162,18,Ciudad de México
+163,40,León
+164,29,Ciudad de México
+165,38,Tijuana
+166,61,San Luis Potosí
+167,23,Monterrey
+168,49,Aguascalientes
+169,51,San Luis Potosí
+170,44,Cancún
+171,54,Monterrey
+172,32,Ciudad de México
+173,28,Toluca
+174,53,Guadalajara
+175,48,Aguascalientes
+176,57,Aguascalientes
+177,41,Tijuana
+178,61,Querétaro
+179,34,Mérida
+180,23,Monterrey
+181,18,Ciudad de México
+182,23,Monterrey
+183,49,Tijuana
+184,18,Querétaro
+185,32,Querétaro
+186,67,Ciudad de México
+187,50,Veracruz
+188,63,Guadalajara
+189,24,Guadalajara
+190,18,Ciudad de México
+191,59,Tijuana
+192,18,Veracruz
+193,39,Querétaro
+194,41,Tijuana
+195,25,Aguascalientes
+196,60,Morelia
+197,60,Toluca
+198,46,San Luis Potosí
+199,38,Saltillo
+200,41,Ciudad de México
+201,23,Toluca
+202,35,Querétaro
+203,37,Tijuana
+204,26,Guadalajara
+205,50,Guadalajara
+206,18,Chihuahua
+207,32,Chihuahua
+208,18,Ciudad de México
+209,45,Mérida
+210,48,Querétaro
+211,47,Puebla
+212,79,Monterrey
+213,51,Monterrey
+214,25,Mérida
+215,75,Puebla
+216,25,Querétaro
+217,49,Querétaro
+218,48,Saltillo
+219,26,Querétaro
+220,58,Ciudad de México
+221,43,Guadalajara
+222,46,Toluca
+223,29,Ciudad de México
+224,56,Puebla
+225,26,Guadalajara
+226,18,Ciudad de México
+227,58,Ciudad de México
+228,32,Ciudad de México
+229,39,Ciudad de México
+230,65,Veracruz
+231,54,Monterrey
+232,47,Veracruz
+233,53,Ciudad de México
+234,28,Cancún
+235,49,Tijuana
+236,54,Cancún
+237,49,León
+238,35,Monterrey
+239,18,Querétaro
+240,46,Guadalajara
+241,40,San Luis Potosí
+242,33,Tijuana
+243,49,Ciudad de México
+244,42,Guadalajara
+245,41,Ciudad de México
+246,18,Mérida
+247,18,Monterrey
+248,43,Tijuana
+249,39,Cancún
+250,40,Monterrey
+251,40,Saltillo
+252,44,Mérida
+253,39,Cancún
+254,40,Ciudad de México
+255,42,Monterrey
+256,51,Monterrey
+257,31,Querétaro
+258,49,Ciudad de México
+259,47,Ciudad de México
+260,39,San Luis Potosí
+261,31,Monterrey
+262,43,Guadalajara
+263,50,Ciudad de México
+264,23,Ciudad de México
+265,39,Monterrey
+266,39,Puebla
+267,29,Morelia
+268,29,Querétaro
+269,18,Guadalajara
+270,23,Querétaro
+271,18,Ciudad de México
+272,29,Mérida
+273,30,Guadalajara
+274,30,Querétaro
+275,43,Morelia
+276,35,Saltillo
+277,28,Toluca
+278,28,Ciudad de México
+279,22,Ciudad de México
+280,35,Guadalajara
+281,35,Ciudad de México
+282,61,Guadalajara
+283,59,Chihuahua
+284,59,Guadalajara
+285,67,Monterrey
+286,21,León
+287,47,San Luis Potosí
+288,49,Monterrey
+289,45,Tijuana
+290,68,Toluca
+291,74,Mérida
+292,52,Ciudad de México
+293,47,Mérida
+294,22,Ciudad de México
+295,22,Toluca
+296,48,Morelia
+297,37,Ciudad de México
+298,19,San Luis Potosí
+299,36,Monterrey
+300,43,Guadalajara
+301,51,Tijuana
+302,36,Ciudad de México
+303,34,Puebla
+304,38,Toluca
+305,40,San Luis Potosí
+306,22,León
+307,50,Chihuahua
+308,69,Puebla
+309,49,Veracruz
+310,18,Chihuahua
+311,39,Puebla
+312,18,Ciudad de México
+313,18,Monterrey
+314,47,Mérida
+315,39,Toluca
+316,28,Ciudad de México
+317,18,Aguascalientes
+318,20,Cancún
+319,40,Ciudad de México
+320,38,León
+321,48,Tijuana
+322,59,Monterrey
+323,33,Tijuana
+324,45,Tijuana
+325,36,Saltillo
+326,31,Querétaro
+327,35,Guadalajara
+328,51,Monterrey
+329,24,Ciudad de México
+330,54,Monterrey
+331,59,León
+332,39,Monterrey
+333,42,León
+334,18,Guadalajara
+335,71,Cancún
+336,52,Ciudad de México
+337,40,Ciudad de México
+338,39,Monterrey
+339,44,Veracruz
+340,29,Mérida
+341,42,Guadalajara
+342,25,Guadalajara
+343,45,Ciudad de México
+344,29,Cancún
+345,51,Morelia
+346,36,Cancún
+347,42,Mérida
+348,79,Monterrey
+349,49,San Luis Potosí
+350,42,Puebla
+351,39,Mérida
+352,23,Guadalajara
+353,53,Querétaro
+354,60,Guadalajara
+355,39,Monterrey
+356,61,Guadalajara
+357,36,Puebla
+358,18,Guadalajara
+359,29,Cancún
+360,23,Cancún
+361,34,Guadalajara
+362,47,San Luis Potosí
+363,25,Querétaro
+364,37,Morelia
+365,41,Aguascalientes
+366,28,Morelia
+367,25,Veracruz
+368,39,Chihuahua
+369,50,Saltillo
+370,30,Morelia
+371,27,Monterrey
+372,36,Ciudad de México
+373,42,Veracruz
+374,30,Guadalajara
+375,33,Aguascalientes
+376,35,Saltillo
+377,23,Cancún
+378,36,Guadalajara
+379,30,Querétaro
+380,60,León
+381,31,Ciudad de México
+382,44,Aguascalientes
+383,43,Mérida
+384,22,Veracruz
+385,21,Monterrey
+386,32,Veracruz
+387,47,Ciudad de México
+388,30,Mérida
+389,29,Veracruz
+390,18,Toluca
+391,32,Ciudad de México
+392,42,Morelia
+393,44,Toluca
+394,44,Guadalajara
+395,33,Veracruz
+396,35,León
+397,50,Veracruz
+398,36,Cancún
+399,18,Guadalajara
+400,52,Toluca
+401,23,Tijuana
+402,57,Tijuana
+403,62,Ciudad de México
+404,49,Guadalajara
+405,51,Guadalajara
+406,64,Ciudad de México
+407,23,Monterrey
+408,42,Puebla
+409,41,Querétaro
+410,24,Tijuana
+411,66,Puebla
+412,30,Ciudad de México
+413,28,Guadalajara
+414,42,Monterrey
+415,52,Ciudad de México
+416,30,Guadalajara
+417,30,Monterrey
+418,45,Guadalajara
+419,18,Guadalajara
+420,27,San Luis Potosí
+421,26,Monterrey
+422,32,Monterrey
+423,36,San Luis Potosí
+424,64,San Luis Potosí
+425,51,Mérida
+426,38,Toluca
+427,35,Ciudad de México
+428,50,Aguascalientes
+429,44,Cancún
+430,50,Morelia
+431,57,Ciudad de México
+432,24,Ciudad de México
+433,18,Chihuahua
+434,38,Guadalajara
+435,39,Morelia
+436,42,Mérida
+437,30,Guadalajara
+438,35,Cancún
+439,46,Monterrey
+440,47,León
+441,57,Cancún
+442,18,Mérida
+443,18,Guadalajara
+444,58,Ciudad de México
+445,47,Monterrey
+446,49,Mérida
+447,34,Veracruz
+448,31,Guadalajara
+449,41,Puebla
+450,25,Chihuahua
+451,18,Guadalajara
+452,22,Querétaro
+453,40,Chihuahua
+454,47,Cancún
+455,61,Ciudad de México
+456,43,Querétaro
+457,45,Ciudad de México
+458,62,Guadalajara
+459,27,Chihuahua
+460,25,Mérida
+461,30,Guadalajara
+462,37,Querétaro
+463,66,Toluca
+464,33,León
+465,56,Querétaro
+466,31,León
+467,45,Mérida
+468,48,Ciudad de México
+469,45,Puebla
+470,49,Ciudad de México
+471,28,Guadalajara
+472,58,Guadalajara
+473,52,Puebla
+474,28,Monterrey
+475,45,Guadalajara
+476,23,Aguascalientes
+477,39,Ciudad de México
+478,22,Puebla
+479,48,Cancún
+480,80,Ciudad de México
+481,59,Puebla
+482,48,Monterrey
+483,25,Aguascalientes
+484,43,Ciudad de México
+485,55,Ciudad de México
+486,37,Puebla
+487,40,Querétaro
+488,18,Aguascalientes
+489,26,Tijuana
+490,18,Morelia
+491,65,Querétaro
+492,45,Morelia
+493,48,Aguascalientes
+494,35,Chihuahua
+495,18,Ciudad de México
+496,40,Chihuahua
+497,29,Querétaro
+498,24,Ciudad de México
+499,39,Ciudad de México
+500,40,Ciudad de México
+501,35,Puebla
+502,27,Ciudad de México
+503,24,Monterrey
+504,38,Ciudad de México
+505,55,Ciudad de México
+506,18,Ciudad de México
+507,29,Ciudad de México
+508,36,Chihuahua
+509,36,Querétaro
+510,30,Cancún
+511,65,Saltillo
+512,44,Toluca
+513,24,Veracruz
+514,18,Querétaro
+515,36,Puebla
+516,59,Querétaro
+517,41,Puebla
+518,18,Ciudad de México
+519,19,Ciudad de México
+520,40,Veracruz
+521,53,Monterrey
+522,40,León
+523,40,Puebla
+524,53,Ciudad de México
+525,56,Toluca
+526,29,Ciudad de México
+527,44,Mérida
+528,25,Monterrey
+529,23,San Luis Potosí
+530,46,Ciudad de México
+531,18,Ciudad de México
+532,40,Ciudad de México
+533,42,Morelia
+534,50,Guadalajara
+535,22,Toluca
+536,43,Monterrey
+537,36,Guadalajara
+538,59,Ciudad de México
+539,28,Toluca
+540,22,Puebla
+541,45,Morelia
+542,26,León
+543,20,León
+544,51,Ciudad de México
+545,44,Puebla
+546,18,Ciudad de México
+547,25,León
+548,22,Guadalajara
+549,47,Monterrey
+550,59,Guadalajara
+551,67,Ciudad de México
+552,48,Morelia
+553,23,Toluca
+554,22,Puebla
+555,25,San Luis Potosí
+556,45,Puebla
+557,56,León
+558,18,León
+559,47,Ciudad de México
+560,51,Puebla
+561,42,Ciudad de México
+562,80,Monterrey
+563,45,Monterrey
+564,38,San Luis Potosí
+565,47,Guadalajara
+566,30,Toluca
+567,23,Puebla
+568,44,León
+569,54,León
+570,35,Ciudad de México
+571,51,San Luis Potosí
+572,33,Ciudad de México
+573,61,Querétaro
+574,41,Ciudad de México
+575,45,Ciudad de México
+576,49,Veracruz
+577,19,Aguascalientes
+578,35,Puebla
+579,64,Guadalajara
+580,39,Guadalajara
+581,58,Guadalajara
+582,50,Monterrey
+583,18,Ciudad de México
+584,48,Monterrey
+585,23,Ciudad de México
+586,42,Ciudad de México
+587,32,Aguascalientes
+588,38,Querétaro
+589,37,San Luis Potosí
+590,41,Querétaro
+591,32,Guadalajara
+592,19,Querétaro
+593,24,Chihuahua
+594,51,Veracruz
+595,62,Monterrey
+596,41,Chihuahua
+597,50,Mérida
+598,52,Guadalajara
+599,19,Toluca
+600,18,Guadalajara
+601,37,Guadalajara
+602,18,Tijuana
+603,34,Cancún
+604,18,Ciudad de México
+605,29,Guadalajara
+606,27,Monterrey
+607,45,Guadalajara
+608,29,Mérida
+609,22,Guadalajara
+610,39,Toluca
+611,80,León
+612,45,Veracruz
+613,18,Ciudad de México
+614,39,Guadalajara
+615,74,Guadalajara
+616,40,Monterrey
+617,56,Guadalajara
+618,54,Querétaro
+619,55,Puebla
+620,53,Ciudad de México
+621,42,Guadalajara
+622,35,Guadalajara
+623,34,San Luis Potosí
+624,40,Ciudad de México
+625,44,Ciudad de México
+626,20,Cancún
+627,34,Ciudad de México
+628,37,Querétaro
+629,40,Ciudad de México
+630,34,Cancún
+631,49,Monterrey
+632,37,Ciudad de México
+633,33,Querétaro
+634,21,Ciudad de México
+635,27,Mérida
+636,41,Chihuahua
+637,40,Guadalajara
+638,18,Puebla
+639,51,Mérida
+640,28,Guadalajara
+641,25,Toluca
+642,54,Ciudad de México
+643,54,Monterrey
+644,28,Guadalajara
+645,33,Querétaro
+646,21,Cancún
+647,49,Querétaro
+648,51,Aguascalientes
+649,32,Veracruz
+650,57,Ciudad de México
+651,51,Cancún
+652,36,Monterrey
+653,48,Guadalajara
+654,18,León
+655,34,Tijuana
+656,42,Puebla
+657,38,Ciudad de México
+658,67,Mérida
+659,42,Aguascalientes
+660,43,Querétaro
+661,19,Mérida
+662,35,Ciudad de México
+663,27,Guadalajara
+664,71,Puebla
+665,32,San Luis Potosí
+666,40,Ciudad de México
+667,55,Guadalajara
+668,47,Morelia
+669,18,Ciudad de México
+670,47,Mérida
+671,48,Monterrey
+672,35,Aguascalientes
+673,45,Ciudad de México
+674,39,Mérida
+675,19,Morelia
+676,30,Querétaro
+677,38,Monterrey
+678,30,Morelia
+679,46,León
+680,52,Querétaro
+681,42,Guadalajara
+682,33,Mérida
+683,57,Chihuahua
+684,40,Cancún
+685,43,Monterrey
+686,27,Saltillo
+687,35,Ciudad de México
+688,52,Monterrey
+689,48,Morelia
+690,35,Cancún
+691,38,Ciudad de México
+692,41,Toluca
+693,25,Saltillo
+694,35,Veracruz
+695,31,Guadalajara
+696,19,Guadalajara
+697,40,Guadalajara
+698,36,Guadalajara
+699,18,Ciudad de México
+700,27,Guadalajara
+701,37,San Luis Potosí
+702,18,Tijuana
+703,41,Guadalajara
+704,42,León
+705,47,Puebla
+706,30,Ciudad de México
+707,18,Cancún
+708,47,Ciudad de México
+709,19,Ciudad de México
+710,46,San Luis Potosí
+711,29,Guadalajara
+712,24,Cancún
+713,42,Puebla
+714,54,Saltillo
+715,36,Ciudad de México
+716,35,Saltillo
+717,18,Querétaro
+718,50,Saltillo
+719,39,Ciudad de México
+720,34,Guadalajara
+721,56,Ciudad de México
+722,18,Saltillo
+723,31,Guadalajara
+724,38,Guadalajara
+725,34,Tijuana
+726,18,Chihuahua
+727,43,Tijuana
+728,38,Ciudad de México
+729,52,Monterrey
+730,67,Cancún
+731,35,Puebla
+732,43,Guadalajara
+733,42,Monterrey
+734,40,Monterrey
+735,36,Ciudad de México
+736,43,Cancún
+737,54,Aguascalientes
+738,26,Ciudad de México
+739,65,San Luis Potosí
+740,45,Monterrey
+741,42,Guadalajara
+742,18,Toluca
+743,38,Ciudad de México
+744,24,Guadalajara
+745,46,León
+746,51,Puebla
+747,54,Morelia
+748,36,Guadalajara
+749,37,Guadalajara
+750,44,Tijuana
+751,18,León
+752,32,San Luis Potosí
+753,30,Guadalajara
+754,45,Ciudad de México
+755,32,Monterrey
+756,48,Monterrey
+757,35,Ciudad de México
+758,50,Ciudad de México
+759,69,Mérida
+760,60,Guadalajara
+761,51,Veracruz
+762,54,Tijuana
+763,33,Ciudad de México
+764,27,Mérida
+765,26,Ciudad de México
+766,41,Monterrey
+767,59,Puebla
+768,28,Ciudad de México
+769,45,Chihuahua
+770,21,Guadalajara
+771,21,Cancún
+772,50,Guadalajara
+773,28,Toluca
+774,28,Aguascalientes
+775,66,Ciudad de México
+776,39,Monterrey
+777,37,Tijuana
+778,35,Ciudad de México
+779,44,Toluca
+780,28,Saltillo
+781,39,León
+782,53,Tijuana
+783,34,Guadalajara
+784,18,Ciudad de México
+785,29,Aguascalientes
+786,49,Mérida
+787,54,San Luis Potosí
+788,43,Puebla
+789,58,Ciudad de México
+790,23,Toluca
+791,56,Tijuana
+792,41,Ciudad de México
+793,47,Monterrey
+794,18,Cancún
+795,50,Ciudad de México
+796,41,Guadalajara
+797,65,Guadalajara
+798,41,Mérida
+799,24,Monterrey
+800,27,Cancún
+801,44,Monterrey
+802,42,Monterrey
+803,29,Ciudad de México
+804,23,Monterrey
+805,59,Saltillo
+806,35,Mérida
+807,37,Querétaro
+808,31,León
+809,58,Ciudad de México
+810,54,San Luis Potosí
+811,24,San Luis Potosí
+812,37,Querétaro
+813,25,Veracruz
+814,64,Ciudad de México
+815,44,Ciudad de México
+816,34,Veracruz
+817,33,Monterrey
+818,46,Morelia
+819,35,Puebla
+820,60,Puebla
+821,25,León
+822,21,Puebla
+823,58,Ciudad de México
+824,32,Monterrey
+825,58,Guadalajara
+826,50,Chihuahua
+827,19,Aguascalientes
+828,29,Ciudad de México
+829,39,Monterrey
+830,35,León
+831,42,Ciudad de México
+832,29,Ciudad de México
+833,37,Ciudad de México
+834,52,Veracruz
+835,57,Puebla
+836,27,Ciudad de México
+837,35,Guadalajara
+838,36,Ciudad de México
+839,19,Toluca
+840,51,Guadalajara
+841,46,Cancún
+842,45,Saltillo
+843,36,Cancún
+844,50,Guadalajara
+845,51,Ciudad de México
+846,54,Guadalajara
+847,36,Puebla
+848,43,Guadalajara
+849,33,Ciudad de México
+850,33,San Luis Potosí
+851,52,Toluca
+852,39,Mérida
+853,36,Monterrey
+854,46,Guadalajara
+855,47,Cancún
+856,27,Monterrey
+857,29,Guadalajara
+858,48,Aguascalientes
+859,45,Saltillo
+860,35,San Luis Potosí
+861,55,Chihuahua
+862,37,Toluca
+863,18,Guadalajara
+864,27,León
+865,18,Mérida
+866,54,Ciudad de México
+867,45,Saltillo
+868,40,Morelia
+869,18,Monterrey
+870,18,Puebla
+871,36,Monterrey
+872,18,Tijuana
+873,51,Guadalajara
+874,37,Ciudad de México
+875,36,Veracruz
+876,37,Querétaro
+877,25,Saltillo
+878,23,Querétaro
+879,18,Monterrey
+880,38,León
+881,44,Guadalajara
+882,35,Saltillo
+883,34,Monterrey
+884,25,Monterrey
+885,42,Querétaro
+886,18,Guadalajara
+887,23,Puebla
+888,29,Monterrey
+889,31,Ciudad de México
+890,41,Toluca
+891,35,Toluca
+892,40,Monterrey
+893,55,Monterrey
+894,57,Ciudad de México
+895,47,Guadalajara
+896,55,Mérida
+897,62,Tijuana
+898,43,Ciudad de México
+899,18,Ciudad de México
+900,52,Puebla
+901,24,Puebla
+902,64,Puebla
+903,62,Toluca
+904,31,Monterrey
+905,23,Monterrey
+906,28,Monterrey
+907,37,Cancún
+908,56,Ciudad de México
+909,21,Querétaro
+910,50,León
+911,18,Monterrey
+912,55,Ciudad de México
+913,37,Querétaro
+914,41,Cancún
+915,37,Mérida
+916,51,Ciudad de México
+917,43,Toluca
+918,62,Monterrey
+919,18,Ciudad de México
+920,25,Cancún
+921,19,Tijuana
+922,48,León
+923,18,Monterrey
+924,72,Monterrey
+925,39,Guadalajara
+926,55,Puebla
+927,24,Puebla
+928,41,Ciudad de México
+929,47,Morelia
+930,28,León
+931,35,León
+932,60,Puebla
+933,56,Monterrey
+934,46,Mérida
+935,66,Saltillo
+936,18,Mérida
+937,42,Ciudad de México
+938,33,León
+939,58,Puebla
+940,54,Ciudad de México
+941,54,Guadalajara
+942,30,Chihuahua
+943,46,Puebla
+944,53,Mérida
+945,56,Puebla
+946,25,Ciudad de México
+947,28,Cancún
+948,41,Guadalajara
+949,58,Ciudad de México
+950,47,Querétaro
+951,57,Cancún
+952,18,Guadalajara
+953,34,Ciudad de México
+954,45,León
+955,42,Querétaro
+956,18,Ciudad de México
+957,53,San Luis Potosí
+958,43,Monterrey
+959,31,San Luis Potosí
+960,55,Aguascalientes
+961,18,Ciudad de México
+962,31,Puebla
+963,50,San Luis Potosí
+964,43,Morelia
+965,35,Querétaro
+966,36,Querétaro
+967,35,Morelia
+968,50,Ciudad de México
+969,34,Cancún
+970,47,Querétaro
+971,18,Monterrey
+972,55,Toluca
+973,72,Puebla
+974,45,Ciudad de México
+975,37,Monterrey
+976,31,Ciudad de México
+977,48,Mérida
+978,29,Chihuahua
+979,27,Ciudad de México
+980,18,Chihuahua
+981,41,Guadalajara
+982,34,Ciudad de México
+983,35,Guadalajara
+984,38,Puebla
+985,28,León
+986,41,Toluca
+987,23,Ciudad de México
+988,36,Guadalajara
+989,34,Mérida
+990,18,Tijuana
+991,21,Cancún
+992,30,Ciudad de México
+993,30,Toluca
+994,42,Guadalajara
+995,32,Ciudad de México
+996,37,Monterrey
+997,32,Toluca
+998,18,Toluca
+999,36,Guadalajara
+1000,26,Puebla

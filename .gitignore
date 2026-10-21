@@ -1,0 +1,12 @@
+
+# Credenciales y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/

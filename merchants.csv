@@ -1,0 +1,41 @@
+merchant_id,merchant_name,category
+1,Walmart,Supermercado
+2,Soriana,Supermercado
+3,Chedraui,Supermercado
+4,OXXO,Tienda de conveniencia
+5,7-Eleven,Tienda de conveniencia
+6,Liverpool,Departamental
+7,Sears,Departamental
+8,Amazon México,E-commerce
+9,Mercado Libre,E-commerce
+10,Cinépolis,Entretenimiento
+11,Netflix,Entretenimiento
+12,Spotify,Entretenimiento
+13,Uber,Transporte
+14,DiDi,Transporte
+15,Pemex,Gasolinera
+16,Starbucks,Restaurantes y cafés
+17,Sanborns,Restaurantes y cafés
+18,Farmacias Guadalajara,Farmacia
+19,Telcel,Telecomunicaciones
+20,Home Depot,Hogar y ferretería
+21,Costco,Supermercado
+22,La Comer,Supermercado
+23,Bodega Aurrerá,Supermercado
+24,Circle K,Tienda de conveniencia
+25,El Palacio de Hierro,Departamental
+26,Coppel,Departamental
+27,Shein,E-commerce
+28,Temu,E-commerce
+29,Cinemex,Entretenimiento
+30,Disney+,Entretenimiento
+31,Steam,Entretenimiento
+32,inDrive,Transporte
+33,Cabify,Transporte
+34,Shell,Gasolinera
+35,BP,Gasolinera
+36,Italian Coffee,Restaurantes y cafés
+37,Domino's Pizza,Restaurantes y cafés
+38,Farmacias del Ahorro,Farmacia
+39,AT&T México,Telecomunicaciones
+40,Liverpool Hogar,Hogar y ferretería

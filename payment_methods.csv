@@ -1,0 +1,1955 @@
+payment_method_id,customer_id,method_type
+1,1,Tarjeta de crédito
+2,2,Tarjeta de crédito
+3,2,Transferencia SPEI
+4,3,Billetera digital
+5,3,Transferencia SPEI
+6,4,Efectivo
+7,5,Tarjeta de crédito
+8,5,Efectivo
+9,5,Billetera digital
+10,6,Transferencia SPEI
+11,6,Billetera digital
+12,6,Efectivo
+13,7,Tarjeta de crédito
+14,8,Tarjeta de débito
+15,9,Tarjeta de crédito
+16,9,Tarjeta de débito
+17,10,Efectivo
+18,11,Efectivo
+19,11,Transferencia SPEI
+20,12,Transferencia SPEI
+21,13,Tarjeta de débito
+22,13,Transferencia SPEI
+23,14,Tarjeta de crédito
+24,14,Tarjeta de débito
+25,14,Transferencia SPEI
+26,15,Tarjeta de débito
+27,15,Billetera digital
+28,15,Efectivo
+29,16,Transferencia SPEI
+30,16,Tarjeta de débito
+31,17,Transferencia SPEI
+32,17,Tarjeta de crédito
+33,17,Efectivo
+34,18,Transferencia SPEI
+35,19,Transferencia SPEI
+36,19,Tarjeta de crédito
+37,20,Billetera digital
+38,21,Transferencia SPEI
+39,21,Tarjeta de débito
+40,21,Billetera digital
+41,22,Efectivo
+42,22,Billetera digital
+43,23,Transferencia SPEI
+44,24,Tarjeta de débito
+45,25,Billetera digital
+46,25,Transferencia SPEI
+47,25,Efectivo
+48,26,Efectivo
+49,26,Billetera digital
+50,26,Tarjeta de débito
+51,27,Tarjeta de débito
+52,28,Efectivo
+53,28,Tarjeta de crédito
+54,28,Billetera digital
+55,29,Tarjeta de débito
+56,30,Tarjeta de débito
+57,30,Efectivo
+58,30,Transferencia SPEI
+59,31,Efectivo
+60,32,Billetera digital
+61,32,Efectivo
+62,33,Transferencia SPEI
+63,33,Tarjeta de crédito
+64,33,Billetera digital
+65,34,Tarjeta de crédito
+66,34,Transferencia SPEI
+67,34,Efectivo
+68,35,Tarjeta de crédito
+69,35,Transferencia SPEI
+70,36,Tarjeta de débito
+71,36,Efectivo
+72,37,Transferencia SPEI
+73,38,Tarjeta de débito
+74,38,Tarjeta de crédito
+75,38,Transferencia SPEI
+76,39,Billetera digital
+77,39,Tarjeta de débito
+78,40,Transferencia SPEI
+79,41,Billetera digital
+80,42,Tarjeta de crédito
+81,42,Transferencia SPEI
+82,42,Tarjeta de débito
+83,43,Tarjeta de crédito
+84,44,Transferencia SPEI
+85,44,Tarjeta de débito
+86,45,Tarjeta de débito
+87,46,Tarjeta de crédito
+88,46,Billetera digital
+89,46,Transferencia SPEI
+90,47,Tarjeta de crédito
+91,47,Tarjeta de débito
+92,48,Efectivo
+93,49,Tarjeta de débito
+94,49,Transferencia SPEI
+95,49,Efectivo
+96,50,Efectivo
+97,50,Tarjeta de débito
+98,50,Transferencia SPEI
+99,51,Transferencia SPEI
+100,52,Transferencia SPEI
+101,52,Tarjeta de débito
+102,52,Tarjeta de crédito
+103,53,Billetera digital
+104,54,Billetera digital
+105,55,Tarjeta de crédito
+106,56,Transferencia SPEI
+107,56,Tarjeta de crédito
+108,56,Efectivo
+109,57,Transferencia SPEI
+110,57,Tarjeta de débito
+111,57,Tarjeta de crédito
+112,58,Billetera digital
+113,59,Billetera digital
+114,60,Billetera digital
+115,60,Tarjeta de crédito
+116,60,Tarjeta de débito
+117,61,Transferencia SPEI
+118,62,Tarjeta de débito
+119,63,Transferencia SPEI
+120,64,Transferencia SPEI
+121,64,Tarjeta de crédito
+122,65,Efectivo
+123,65,Billetera digital
+124,66,Billetera digital
+125,66,Tarjeta de débito
+126,66,Efectivo
+127,67,Tarjeta de débito
+128,68,Efectivo
+129,68,Tarjeta de débito
+130,68,Tarjeta de crédito
+131,69,Tarjeta de crédito
+132,70,Tarjeta de crédito
+133,70,Transferencia SPEI
+134,71,Tarjeta de débito
+135,71,Billetera digital
+136,72,Tarjeta de débito
+137,72,Tarjeta de crédito
+138,73,Transferencia SPEI
+139,73,Efectivo
+140,73,Tarjeta de crédito
+141,74,Efectivo
+142,74,Tarjeta de débito
+143,74,Billetera digital
+144,75,Billetera digital
+145,75,Tarjeta de débito
+146,76,Tarjeta de crédito
+147,76,Tarjeta de débito
+148,76,Transferencia SPEI
+149,77,Billetera digital
+150,78,Efectivo
+151,78,Tarjeta de crédito
+152,79,Tarjeta de débito
+153,79,Billetera digital
+154,80,Tarjeta de crédito
+155,81,Billetera digital
+156,81,Tarjeta de débito
+157,81,Tarjeta de crédito
+158,82,Efectivo
+159,82,Tarjeta de crédito
+160,83,Tarjeta de débito
+161,83,Transferencia SPEI
+162,84,Transferencia SPEI
+163,85,Tarjeta de débito
+164,85,Tarjeta de crédito
+165,85,Billetera digital
+166,86,Billetera digital
+167,86,Transferencia SPEI
+168,87,Billetera digital
+169,87,Tarjeta de crédito
+170,87,Transferencia SPEI
+171,88,Tarjeta de débito
+172,88,Tarjeta de crédito
+173,89,Tarjeta de crédito
+174,89,Tarjeta de débito
+175,89,Efectivo
+176,90,Tarjeta de crédito
+177,90,Billetera digital
+178,91,Billetera digital
+179,91,Tarjeta de débito
+180,92,Billetera digital
+181,92,Tarjeta de débito
+182,92,Tarjeta de crédito
+183,93,Tarjeta de crédito
+184,94,Efectivo
+185,95,Tarjeta de débito
+186,95,Efectivo
+187,96,Tarjeta de débito
+188,96,Tarjeta de crédito
+189,97,Tarjeta de crédito
+190,98,Billetera digital
+191,98,Transferencia SPEI
+192,99,Tarjeta de crédito
+193,99,Transferencia SPEI
+194,100,Transferencia SPEI
+195,100,Efectivo
+196,100,Tarjeta de débito
+197,101,Efectivo
+198,102,Tarjeta de crédito
+199,103,Tarjeta de crédito
+200,103,Tarjeta de débito
+201,104,Tarjeta de crédito
+202,104,Efectivo
+203,105,Transferencia SPEI
+204,106,Tarjeta de débito
+205,106,Efectivo
+206,107,Transferencia SPEI
+207,107,Billetera digital
+208,107,Tarjeta de crédito
+209,108,Tarjeta de débito
+210,108,Tarjeta de crédito
+211,108,Billetera digital
+212,109,Tarjeta de débito
+213,109,Efectivo
+214,109,Transferencia SPEI
+215,110,Efectivo
+216,110,Tarjeta de crédito
+217,111,Tarjeta de crédito
+218,111,Tarjeta de débito
+219,112,Efectivo
+220,112,Billetera digital
+221,112,Transferencia SPEI
+222,113,Tarjeta de débito
+223,113,Transferencia SPEI
+224,113,Tarjeta de crédito
+225,114,Tarjeta de crédito
+226,114,Tarjeta de débito
+227,115,Billetera digital
+228,116,Efectivo
+229,116,Tarjeta de crédito
+230,117,Efectivo
+231,117,Tarjeta de débito
+232,117,Transferencia SPEI
+233,118,Tarjeta de crédito
+234,119,Transferencia SPEI
+235,120,Efectivo
+236,121,Tarjeta de débito
+237,121,Billetera digital
+238,121,Transferencia SPEI
+239,122,Transferencia SPEI
+240,123,Transferencia SPEI
+241,124,Tarjeta de crédito
+242,124,Tarjeta de débito
+243,124,Transferencia SPEI
+244,125,Billetera digital
+245,126,Billetera digital
+246,127,Tarjeta de débito
+247,128,Efectivo
+248,128,Transferencia SPEI
+249,129,Billetera digital
+250,130,Tarjeta de crédito
+251,131,Tarjeta de débito
+252,132,Billetera digital
+253,132,Efectivo
+254,133,Billetera digital
+255,134,Efectivo
+256,134,Tarjeta de débito
+257,135,Billetera digital
+258,135,Tarjeta de crédito
+259,136,Billetera digital
+260,136,Efectivo
+261,137,Billetera digital
+262,138,Tarjeta de crédito
+263,138,Billetera digital
+264,139,Billetera digital
+265,139,Tarjeta de débito
+266,140,Billetera digital
+267,141,Tarjeta de crédito
+268,141,Tarjeta de débito
+269,141,Transferencia SPEI
+270,142,Billetera digital
+271,143,Transferencia SPEI
+272,143,Tarjeta de débito
+273,143,Tarjeta de crédito
+274,144,Efectivo
+275,145,Tarjeta de crédito
+276,146,Efectivo
+277,146,Tarjeta de débito
+278,146,Tarjeta de crédito
+279,147,Tarjeta de crédito
+280,147,Efectivo
+281,148,Tarjeta de crédito
+282,149,Tarjeta de crédito
+283,150,Efectivo
+284,151,Efectivo
+285,151,Tarjeta de débito
+286,151,Billetera digital
+287,152,Transferencia SPEI
+288,153,Tarjeta de crédito
+289,153,Billetera digital
+290,154,Tarjeta de débito
+291,154,Billetera digital
+292,155,Tarjeta de crédito
+293,155,Tarjeta de débito
+294,156,Tarjeta de débito
+295,157,Tarjeta de crédito
+296,158,Tarjeta de crédito
+297,159,Efectivo
+298,159,Tarjeta de débito
+299,160,Efectivo
+300,160,Tarjeta de débito
+301,161,Billetera digital
+302,161,Efectivo
+303,162,Tarjeta de crédito
+304,163,Transferencia SPEI
+305,163,Tarjeta de débito
+306,163,Efectivo
+307,164,Efectivo
+308,164,Tarjeta de crédito
+309,164,Tarjeta de débito
+310,165,Tarjeta de débito
+311,165,Billetera digital
+312,165,Transferencia SPEI
+313,166,Billetera digital
+314,167,Transferencia SPEI
+315,167,Tarjeta de débito
+316,167,Billetera digital
+317,168,Tarjeta de débito
+318,169,Billetera digital
+319,169,Efectivo
+320,170,Tarjeta de crédito
+321,171,Transferencia SPEI
+322,171,Efectivo
+323,171,Tarjeta de débito
+324,172,Transferencia SPEI
+325,173,Tarjeta de débito
+326,174,Billetera digital
+327,174,Transferencia SPEI
+328,175,Tarjeta de débito
+329,175,Efectivo
+330,176,Tarjeta de débito
+331,176,Transferencia SPEI
+332,176,Tarjeta de crédito
+333,177,Billetera digital
+334,177,Tarjeta de crédito
+335,177,Tarjeta de débito
+336,178,Transferencia SPEI
+337,178,Tarjeta de crédito
+338,179,Tarjeta de crédito
+339,179,Billetera digital
+340,179,Transferencia SPEI
+341,180,Efectivo
+342,180,Billetera digital
+343,180,Tarjeta de débito
+344,181,Transferencia SPEI
+345,182,Tarjeta de crédito
+346,183,Tarjeta de crédito
+347,183,Transferencia SPEI
+348,184,Transferencia SPEI
+349,184,Billetera digital
+350,184,Tarjeta de crédito
+351,185,Tarjeta de crédito
+352,185,Tarjeta de débito
+353,186,Tarjeta de débito
+354,187,Billetera digital
+355,187,Efectivo
+356,187,Tarjeta de débito
+357,188,Transferencia SPEI
+358,188,Tarjeta de crédito
+359,188,Efectivo
+360,189,Efectivo
+361,189,Tarjeta de débito
+362,190,Tarjeta de débito
+363,190,Tarjeta de crédito
+364,190,Billetera digital
+365,191,Transferencia SPEI
+366,192,Tarjeta de débito
+367,192,Efectivo
+368,193,Tarjeta de débito
+369,193,Billetera digital
+370,193,Transferencia SPEI
+371,194,Efectivo
+372,194,Billetera digital
+373,195,Billetera digital
+374,195,Tarjeta de débito
+375,196,Tarjeta de débito
+376,196,Transferencia SPEI
+377,196,Tarjeta de crédito
+378,197,Transferencia SPEI
+379,197,Efectivo
+380,197,Tarjeta de débito
+381,198,Tarjeta de crédito
+382,198,Transferencia SPEI
+383,199,Tarjeta de débito
+384,199,Transferencia SPEI
+385,199,Efectivo
+386,200,Billetera digital
+387,201,Billetera digital
+388,201,Tarjeta de débito
+389,201,Efectivo
+390,202,Tarjeta de débito
+391,202,Billetera digital
+392,202,Transferencia SPEI
+393,203,Efectivo
+394,204,Transferencia SPEI
+395,204,Tarjeta de débito
+396,205,Tarjeta de débito
+397,205,Transferencia SPEI
+398,206,Tarjeta de débito
+399,207,Tarjeta de crédito
+400,207,Billetera digital
+401,207,Transferencia SPEI
+402,208,Billetera digital
+403,209,Tarjeta de crédito
+404,210,Transferencia SPEI
+405,211,Transferencia SPEI
+406,211,Efectivo
+407,212,Tarjeta de crédito
+408,212,Tarjeta de débito
+409,213,Billetera digital
+410,214,Transferencia SPEI
+411,214,Tarjeta de débito
+412,214,Billetera digital
+413,215,Transferencia SPEI
+414,216,Billetera digital
+415,217,Tarjeta de débito
+416,217,Tarjeta de crédito
+417,218,Tarjeta de crédito
+418,218,Tarjeta de débito
+419,218,Transferencia SPEI
+420,219,Tarjeta de crédito
+421,219,Billetera digital
+422,220,Tarjeta de débito
+423,220,Transferencia SPEI
+424,221,Tarjeta de débito
+425,222,Tarjeta de débito
+426,222,Billetera digital
+427,223,Billetera digital
+428,223,Efectivo
+429,224,Tarjeta de débito
+430,224,Transferencia SPEI
+431,225,Tarjeta de débito
+432,225,Transferencia SPEI
+433,225,Tarjeta de crédito
+434,226,Tarjeta de débito
+435,226,Transferencia SPEI
+436,227,Tarjeta de crédito
+437,228,Tarjeta de crédito
+438,229,Tarjeta de crédito
+439,229,Tarjeta de débito
+440,229,Efectivo
+441,230,Efectivo
+442,230,Tarjeta de débito
+443,231,Tarjeta de débito
+444,231,Transferencia SPEI
+445,231,Tarjeta de crédito
+446,232,Tarjeta de crédito
+447,233,Transferencia SPEI
+448,233,Billetera digital
+449,234,Tarjeta de crédito
+450,234,Billetera digital
+451,235,Efectivo
+452,236,Transferencia SPEI
+453,236,Tarjeta de crédito
+454,236,Tarjeta de débito
+455,237,Efectivo
+456,238,Transferencia SPEI
+457,238,Tarjeta de crédito
+458,239,Tarjeta de débito
+459,239,Billetera digital
+460,240,Tarjeta de débito
+461,240,Billetera digital
+462,240,Tarjeta de crédito
+463,241,Tarjeta de crédito
+464,242,Tarjeta de crédito
+465,243,Tarjeta de débito
+466,243,Transferencia SPEI
+467,244,Tarjeta de débito
+468,244,Efectivo
+469,245,Efectivo
+470,245,Billetera digital
+471,246,Transferencia SPEI
+472,246,Billetera digital
+473,247,Billetera digital
+474,247,Tarjeta de crédito
+475,248,Transferencia SPEI
+476,248,Tarjeta de crédito
+477,249,Transferencia SPEI
+478,249,Tarjeta de débito
+479,250,Billetera digital
+480,251,Tarjeta de crédito
+481,252,Billetera digital
+482,252,Transferencia SPEI
+483,252,Tarjeta de crédito
+484,253,Transferencia SPEI
+485,253,Tarjeta de débito
+486,254,Tarjeta de débito
+487,255,Billetera digital
+488,256,Efectivo
+489,256,Transferencia SPEI
+490,256,Tarjeta de crédito
+491,257,Transferencia SPEI
+492,258,Tarjeta de débito
+493,259,Tarjeta de crédito
+494,259,Transferencia SPEI
+495,260,Tarjeta de crédito
+496,260,Transferencia SPEI
+497,261,Tarjeta de débito
+498,261,Tarjeta de crédito
+499,262,Tarjeta de débito
+500,262,Tarjeta de crédito
+501,262,Transferencia SPEI
+502,263,Tarjeta de crédito
+503,263,Transferencia SPEI
+504,263,Efectivo
+505,264,Transferencia SPEI
+506,264,Tarjeta de débito
+507,265,Tarjeta de débito
+508,266,Tarjeta de débito
+509,266,Billetera digital
+510,267,Billetera digital
+511,267,Transferencia SPEI
+512,268,Transferencia SPEI
+513,268,Tarjeta de débito
+514,269,Efectivo
+515,270,Tarjeta de crédito
+516,271,Tarjeta de débito
+517,272,Tarjeta de débito
+518,272,Billetera digital
+519,273,Tarjeta de crédito
+520,273,Tarjeta de débito
+521,274,Tarjeta de débito
+522,274,Transferencia SPEI
+523,275,Tarjeta de crédito
+524,276,Transferencia SPEI
+525,276,Efectivo
+526,277,Transferencia SPEI
+527,277,Tarjeta de débito
+528,278,Efectivo
+529,278,Tarjeta de débito
+530,279,Efectivo
+531,279,Billetera digital
+532,280,Transferencia SPEI
+533,280,Tarjeta de crédito
+534,281,Tarjeta de débito
+535,281,Tarjeta de crédito
+536,282,Tarjeta de débito
+537,282,Billetera digital
+538,283,Tarjeta de débito
+539,283,Transferencia SPEI
+540,284,Tarjeta de débito
+541,284,Transferencia SPEI
+542,285,Billetera digital
+543,285,Efectivo
+544,286,Billetera digital
+545,286,Tarjeta de débito
+546,287,Tarjeta de crédito
+547,288,Tarjeta de débito
+548,288,Tarjeta de crédito
+549,289,Tarjeta de débito
+550,289,Billetera digital
+551,289,Transferencia SPEI
+552,290,Tarjeta de débito
+553,290,Efectivo
+554,291,Tarjeta de crédito
+555,292,Efectivo
+556,292,Tarjeta de crédito
+557,293,Tarjeta de crédito
+558,294,Transferencia SPEI
+559,294,Billetera digital
+560,294,Efectivo
+561,295,Billetera digital
+562,295,Tarjeta de débito
+563,295,Tarjeta de crédito
+564,296,Tarjeta de crédito
+565,297,Billetera digital
+566,297,Transferencia SPEI
+567,297,Tarjeta de débito
+568,298,Tarjeta de crédito
+569,298,Efectivo
+570,299,Tarjeta de crédito
+571,300,Tarjeta de crédito
+572,300,Tarjeta de débito
+573,301,Tarjeta de débito
+574,301,Tarjeta de crédito
+575,301,Transferencia SPEI
+576,302,Efectivo
+577,303,Billetera digital
+578,304,Efectivo
+579,304,Tarjeta de crédito
+580,304,Tarjeta de débito
+581,305,Tarjeta de débito
+582,305,Billetera digital
+583,306,Transferencia SPEI
+584,307,Transferencia SPEI
+585,307,Tarjeta de débito
+586,307,Tarjeta de crédito
+587,308,Tarjeta de crédito
+588,308,Efectivo
+589,309,Billetera digital
+590,310,Tarjeta de débito
+591,311,Tarjeta de débito
+592,312,Transferencia SPEI
+593,312,Efectivo
+594,313,Tarjeta de débito
+595,313,Transferencia SPEI
+596,314,Billetera digital
+597,315,Transferencia SPEI
+598,315,Tarjeta de crédito
+599,316,Efectivo
+600,316,Billetera digital
+601,316,Tarjeta de crédito
+602,317,Tarjeta de débito
+603,318,Tarjeta de crédito
+604,318,Tarjeta de débito
+605,319,Efectivo
+606,319,Billetera digital
+607,320,Tarjeta de crédito
+608,320,Tarjeta de débito
+609,321,Tarjeta de crédito
+610,321,Tarjeta de débito
+611,321,Billetera digital
+612,322,Efectivo
+613,322,Tarjeta de crédito
+614,322,Transferencia SPEI
+615,323,Billetera digital
+616,323,Efectivo
+617,324,Tarjeta de débito
+618,324,Tarjeta de crédito
+619,324,Efectivo
+620,325,Transferencia SPEI
+621,325,Efectivo
+622,325,Tarjeta de débito
+623,326,Efectivo
+624,327,Tarjeta de débito
+625,328,Tarjeta de crédito
+626,329,Billetera digital
+627,329,Tarjeta de crédito
+628,330,Billetera digital
+629,331,Tarjeta de débito
+630,331,Efectivo
+631,331,Billetera digital
+632,332,Transferencia SPEI
+633,333,Tarjeta de crédito
+634,334,Billetera digital
+635,335,Efectivo
+636,335,Tarjeta de crédito
+637,335,Billetera digital
+638,336,Tarjeta de crédito
+639,337,Tarjeta de débito
+640,338,Tarjeta de débito
+641,338,Transferencia SPEI
+642,338,Efectivo
+643,339,Billetera digital
+644,340,Transferencia SPEI
+645,340,Billetera digital
+646,341,Billetera digital
+647,341,Tarjeta de débito
+648,342,Tarjeta de débito
+649,342,Efectivo
+650,343,Transferencia SPEI
+651,343,Tarjeta de débito
+652,344,Tarjeta de débito
+653,344,Efectivo
+654,345,Tarjeta de débito
+655,345,Transferencia SPEI
+656,345,Billetera digital
+657,346,Billetera digital
+658,347,Transferencia SPEI
+659,347,Tarjeta de crédito
+660,347,Tarjeta de débito
+661,348,Tarjeta de débito
+662,349,Transferencia SPEI
+663,350,Tarjeta de crédito
+664,351,Tarjeta de crédito
+665,351,Efectivo
+666,351,Tarjeta de débito
+667,352,Billetera digital
+668,352,Efectivo
+669,353,Billetera digital
+670,353,Tarjeta de crédito
+671,354,Tarjeta de débito
+672,355,Tarjeta de débito
+673,355,Billetera digital
+674,356,Tarjeta de débito
+675,357,Efectivo
+676,358,Tarjeta de crédito
+677,359,Billetera digital
+678,360,Billetera digital
+679,361,Tarjeta de débito
+680,361,Billetera digital
+681,362,Tarjeta de débito
+682,362,Transferencia SPEI
+683,362,Tarjeta de crédito
+684,363,Efectivo
+685,363,Transferencia SPEI
+686,363,Billetera digital
+687,364,Billetera digital
+688,365,Tarjeta de débito
+689,366,Tarjeta de débito
+690,366,Billetera digital
+691,366,Tarjeta de crédito
+692,367,Tarjeta de crédito
+693,367,Billetera digital
+694,367,Transferencia SPEI
+695,368,Billetera digital
+696,369,Tarjeta de crédito
+697,369,Transferencia SPEI
+698,370,Efectivo
+699,370,Tarjeta de débito
+700,371,Tarjeta de débito
+701,371,Billetera digital
+702,372,Tarjeta de crédito
+703,372,Billetera digital
+704,373,Tarjeta de débito
+705,373,Tarjeta de crédito
+706,373,Efectivo
+707,374,Efectivo
+708,375,Tarjeta de crédito
+709,376,Efectivo
+710,376,Tarjeta de débito
+711,376,Tarjeta de crédito
+712,377,Billetera digital
+713,377,Transferencia SPEI
+714,378,Tarjeta de débito
+715,378,Tarjeta de crédito
+716,379,Billetera digital
+717,380,Efectivo
+718,380,Tarjeta de crédito
+719,380,Tarjeta de débito
+720,381,Tarjeta de débito
+721,381,Tarjeta de crédito
+722,381,Billetera digital
+723,382,Efectivo
+724,382,Tarjeta de débito
+725,382,Tarjeta de crédito
+726,383,Billetera digital
+727,383,Efectivo
+728,384,Efectivo
+729,384,Billetera digital
+730,384,Tarjeta de débito
+731,385,Tarjeta de débito
+732,385,Transferencia SPEI
+733,385,Billetera digital
+734,386,Billetera digital
+735,386,Transferencia SPEI
+736,387,Billetera digital
+737,388,Tarjeta de crédito
+738,388,Transferencia SPEI
+739,389,Transferencia SPEI
+740,390,Tarjeta de débito
+741,390,Transferencia SPEI
+742,391,Tarjeta de crédito
+743,391,Tarjeta de débito
+744,392,Transferencia SPEI
+745,393,Transferencia SPEI
+746,393,Efectivo
+747,393,Billetera digital
+748,394,Efectivo
+749,394,Tarjeta de crédito
+750,395,Tarjeta de débito
+751,395,Billetera digital
+752,396,Efectivo
+753,397,Tarjeta de crédito
+754,398,Tarjeta de débito
+755,399,Tarjeta de crédito
+756,399,Tarjeta de débito
+757,400,Tarjeta de débito
+758,400,Billetera digital
+759,401,Transferencia SPEI
+760,401,Tarjeta de débito
+761,402,Efectivo
+762,403,Efectivo
+763,404,Efectivo
+764,405,Transferencia SPEI
+765,405,Billetera digital
+766,405,Efectivo
+767,406,Tarjeta de crédito
+768,407,Billetera digital
+769,407,Efectivo
+770,407,Tarjeta de crédito
+771,408,Billetera digital
+772,408,Efectivo
+773,408,Transferencia SPEI
+774,409,Tarjeta de débito
+775,409,Tarjeta de crédito
+776,409,Transferencia SPEI
+777,410,Tarjeta de débito
+778,410,Tarjeta de crédito
+779,411,Tarjeta de débito
+780,411,Efectivo
+781,411,Transferencia SPEI
+782,412,Tarjeta de crédito
+783,412,Billetera digital
+784,413,Efectivo
+785,414,Transferencia SPEI
+786,414,Billetera digital
+787,414,Tarjeta de crédito
+788,415,Billetera digital
+789,415,Tarjeta de débito
+790,416,Efectivo
+791,416,Tarjeta de débito
+792,417,Tarjeta de débito
+793,418,Tarjeta de crédito
+794,419,Tarjeta de débito
+795,419,Transferencia SPEI
+796,419,Tarjeta de crédito
+797,420,Tarjeta de crédito
+798,420,Billetera digital
+799,421,Tarjeta de débito
+800,421,Transferencia SPEI
+801,421,Billetera digital
+802,422,Tarjeta de crédito
+803,422,Transferencia SPEI
+804,422,Efectivo
+805,423,Tarjeta de débito
+806,423,Tarjeta de crédito
+807,424,Transferencia SPEI
+808,424,Tarjeta de débito
+809,425,Tarjeta de crédito
+810,426,Transferencia SPEI
+811,427,Billetera digital
+812,427,Tarjeta de débito
+813,427,Efectivo
+814,428,Tarjeta de débito
+815,428,Tarjeta de crédito
+816,429,Billetera digital
+817,430,Efectivo
+818,430,Transferencia SPEI
+819,431,Transferencia SPEI
+820,431,Efectivo
+821,431,Billetera digital
+822,432,Tarjeta de débito
+823,433,Transferencia SPEI
+824,433,Tarjeta de crédito
+825,433,Efectivo
+826,434,Tarjeta de crédito
+827,434,Billetera digital
+828,435,Tarjeta de débito
+829,435,Billetera digital
+830,435,Efectivo
+831,436,Tarjeta de débito
+832,436,Tarjeta de crédito
+833,437,Tarjeta de crédito
+834,438,Transferencia SPEI
+835,438,Billetera digital
+836,439,Transferencia SPEI
+837,439,Tarjeta de débito
+838,440,Transferencia SPEI
+839,440,Tarjeta de débito
+840,440,Tarjeta de crédito
+841,441,Efectivo
+842,441,Tarjeta de crédito
+843,441,Billetera digital
+844,442,Billetera digital
+845,443,Billetera digital
+846,443,Transferencia SPEI
+847,443,Tarjeta de débito
+848,444,Tarjeta de débito
+849,444,Efectivo
+850,444,Tarjeta de crédito
+851,445,Transferencia SPEI
+852,446,Tarjeta de débito
+853,447,Tarjeta de crédito
+854,447,Tarjeta de débito
+855,448,Tarjeta de débito
+856,448,Efectivo
+857,449,Tarjeta de crédito
+858,449,Billetera digital
+859,450,Tarjeta de débito
+860,450,Tarjeta de crédito
+861,451,Efectivo
+862,452,Efectivo
+863,452,Billetera digital
+864,452,Transferencia SPEI
+865,453,Tarjeta de débito
+866,453,Tarjeta de crédito
+867,453,Billetera digital
+868,454,Tarjeta de débito
+869,454,Transferencia SPEI
+870,454,Tarjeta de crédito
+871,455,Tarjeta de crédito
+872,455,Efectivo
+873,456,Billetera digital
+874,456,Tarjeta de débito
+875,457,Tarjeta de débito
+876,457,Tarjeta de crédito
+877,457,Transferencia SPEI
+878,458,Efectivo
+879,458,Transferencia SPEI
+880,459,Tarjeta de crédito
+881,460,Tarjeta de débito
+882,460,Billetera digital
+883,460,Efectivo
+884,461,Tarjeta de débito
+885,461,Billetera digital
+886,462,Tarjeta de crédito
+887,462,Tarjeta de débito
+888,463,Tarjeta de débito
+889,463,Billetera digital
+890,463,Efectivo
+891,464,Tarjeta de crédito
+892,464,Efectivo
+893,464,Transferencia SPEI
+894,465,Efectivo
+895,466,Tarjeta de débito
+896,466,Tarjeta de crédito
+897,467,Tarjeta de crédito
+898,467,Tarjeta de débito
+899,468,Transferencia SPEI
+900,469,Tarjeta de crédito
+901,469,Transferencia SPEI
+902,470,Tarjeta de crédito
+903,471,Tarjeta de débito
+904,471,Transferencia SPEI
+905,472,Tarjeta de débito
+906,472,Transferencia SPEI
+907,473,Efectivo
+908,473,Tarjeta de crédito
+909,473,Transferencia SPEI
+910,474,Transferencia SPEI
+911,475,Tarjeta de crédito
+912,475,Efectivo
+913,476,Transferencia SPEI
+914,476,Billetera digital
+915,477,Efectivo
+916,477,Tarjeta de crédito
+917,478,Tarjeta de débito
+918,479,Transferencia SPEI
+919,479,Tarjeta de crédito
+920,480,Transferencia SPEI
+921,481,Tarjeta de crédito
+922,481,Tarjeta de débito
+923,481,Efectivo
+924,482,Transferencia SPEI
+925,482,Billetera digital
+926,482,Tarjeta de débito
+927,483,Tarjeta de crédito
+928,483,Billetera digital
+929,484,Efectivo
+930,484,Tarjeta de débito
+931,484,Transferencia SPEI
+932,485,Efectivo
+933,485,Tarjeta de débito
+934,485,Tarjeta de crédito
+935,486,Tarjeta de crédito
+936,487,Tarjeta de débito
+937,488,Tarjeta de débito
+938,488,Transferencia SPEI
+939,489,Efectivo
+940,490,Tarjeta de débito
+941,491,Tarjeta de débito
+942,491,Efectivo
+943,491,Billetera digital
+944,492,Efectivo
+945,493,Billetera digital
+946,493,Tarjeta de débito
+947,494,Tarjeta de débito
+948,494,Tarjeta de crédito
+949,495,Tarjeta de crédito
+950,496,Billetera digital
+951,497,Tarjeta de débito
+952,497,Tarjeta de crédito
+953,498,Billetera digital
+954,498,Tarjeta de débito
+955,499,Transferencia SPEI
+956,499,Tarjeta de crédito
+957,500,Tarjeta de débito
+958,500,Billetera digital
+959,501,Transferencia SPEI
+960,501,Efectivo
+961,502,Billetera digital
+962,503,Tarjeta de débito
+963,503,Billetera digital
+964,504,Transferencia SPEI
+965,504,Efectivo
+966,504,Tarjeta de crédito
+967,505,Transferencia SPEI
+968,506,Tarjeta de crédito
+969,506,Billetera digital
+970,507,Transferencia SPEI
+971,507,Tarjeta de débito
+972,507,Tarjeta de crédito
+973,508,Efectivo
+974,508,Billetera digital
+975,508,Tarjeta de débito
+976,509,Tarjeta de débito
+977,510,Efectivo
+978,511,Tarjeta de crédito
+979,512,Transferencia SPEI
+980,513,Tarjeta de débito
+981,513,Transferencia SPEI
+982,514,Tarjeta de crédito
+983,514,Efectivo
+984,515,Tarjeta de débito
+985,515,Billetera digital
+986,515,Tarjeta de crédito
+987,516,Transferencia SPEI
+988,517,Billetera digital
+989,518,Efectivo
+990,518,Tarjeta de débito
+991,518,Billetera digital
+992,519,Tarjeta de débito
+993,519,Transferencia SPEI
+994,520,Tarjeta de crédito
+995,521,Transferencia SPEI
+996,521,Tarjeta de débito
+997,521,Tarjeta de crédito
+998,522,Tarjeta de débito
+999,522,Tarjeta de crédito
+1000,523,Efectivo
+1001,523,Tarjeta de débito
+1002,523,Tarjeta de crédito
+1003,524,Billetera digital
+1004,524,Tarjeta de débito
+1005,525,Transferencia SPEI
+1006,525,Efectivo
+1007,525,Tarjeta de débito
+1008,526,Billetera digital
+1009,527,Tarjeta de débito
+1010,528,Tarjeta de crédito
+1011,528,Tarjeta de débito
+1012,529,Efectivo
+1013,530,Tarjeta de crédito
+1014,531,Billetera digital
+1015,531,Efectivo
+1016,532,Tarjeta de débito
+1017,532,Tarjeta de crédito
+1018,533,Tarjeta de crédito
+1019,533,Billetera digital
+1020,533,Tarjeta de débito
+1021,534,Billetera digital
+1022,534,Tarjeta de crédito
+1023,534,Transferencia SPEI
+1024,535,Billetera digital
+1025,535,Tarjeta de débito
+1026,535,Tarjeta de crédito
+1027,536,Tarjeta de crédito
+1028,536,Tarjeta de débito
+1029,537,Transferencia SPEI
+1030,537,Tarjeta de crédito
+1031,538,Tarjeta de crédito
+1032,539,Tarjeta de débito
+1033,539,Tarjeta de crédito
+1034,539,Billetera digital
+1035,540,Tarjeta de crédito
+1036,540,Tarjeta de débito
+1037,541,Tarjeta de crédito
+1038,541,Billetera digital
+1039,541,Tarjeta de débito
+1040,542,Tarjeta de débito
+1041,542,Tarjeta de crédito
+1042,542,Billetera digital
+1043,543,Tarjeta de débito
+1044,543,Billetera digital
+1045,543,Efectivo
+1046,544,Tarjeta de crédito
+1047,544,Billetera digital
+1048,544,Efectivo
+1049,545,Tarjeta de crédito
+1050,545,Transferencia SPEI
+1051,546,Efectivo
+1052,546,Transferencia SPEI
+1053,547,Transferencia SPEI
+1054,547,Tarjeta de débito
+1055,548,Billetera digital
+1056,548,Tarjeta de crédito
+1057,548,Transferencia SPEI
+1058,549,Tarjeta de crédito
+1059,550,Tarjeta de débito
+1060,550,Transferencia SPEI
+1061,551,Tarjeta de débito
+1062,551,Billetera digital
+1063,551,Efectivo
+1064,552,Tarjeta de débito
+1065,552,Transferencia SPEI
+1066,553,Billetera digital
+1067,553,Tarjeta de débito
+1068,554,Billetera digital
+1069,555,Billetera digital
+1070,555,Efectivo
+1071,556,Efectivo
+1072,556,Tarjeta de crédito
+1073,557,Transferencia SPEI
+1074,557,Tarjeta de crédito
+1075,558,Billetera digital
+1076,559,Tarjeta de débito
+1077,560,Efectivo
+1078,560,Tarjeta de débito
+1079,561,Transferencia SPEI
+1080,561,Tarjeta de débito
+1081,561,Efectivo
+1082,562,Tarjeta de crédito
+1083,563,Billetera digital
+1084,563,Tarjeta de crédito
+1085,564,Billetera digital
+1086,564,Tarjeta de crédito
+1087,564,Tarjeta de débito
+1088,565,Tarjeta de débito
+1089,565,Tarjeta de crédito
+1090,565,Billetera digital
+1091,566,Tarjeta de débito
+1092,566,Billetera digital
+1093,567,Transferencia SPEI
+1094,567,Billetera digital
+1095,568,Efectivo
+1096,568,Tarjeta de crédito
+1097,569,Tarjeta de crédito
+1098,569,Transferencia SPEI
+1099,569,Tarjeta de débito
+1100,570,Tarjeta de débito
+1101,570,Efectivo
+1102,571,Tarjeta de débito
+1103,571,Transferencia SPEI
+1104,571,Tarjeta de crédito
+1105,572,Billetera digital
+1106,572,Tarjeta de débito
+1107,573,Tarjeta de débito
+1108,573,Efectivo
+1109,574,Tarjeta de crédito
+1110,574,Tarjeta de débito
+1111,575,Tarjeta de débito
+1112,575,Efectivo
+1113,576,Tarjeta de débito
+1114,576,Transferencia SPEI
+1115,576,Tarjeta de crédito
+1116,577,Billetera digital
+1117,577,Tarjeta de débito
+1118,578,Tarjeta de débito
+1119,578,Tarjeta de crédito
+1120,579,Transferencia SPEI
+1121,580,Efectivo
+1122,580,Tarjeta de crédito
+1123,581,Tarjeta de crédito
+1124,581,Billetera digital
+1125,581,Tarjeta de débito
+1126,582,Tarjeta de crédito
+1127,582,Transferencia SPEI
+1128,582,Efectivo
+1129,583,Efectivo
+1130,583,Billetera digital
+1131,583,Tarjeta de crédito
+1132,584,Tarjeta de crédito
+1133,584,Billetera digital
+1134,585,Transferencia SPEI
+1135,585,Tarjeta de débito
+1136,586,Tarjeta de débito
+1137,586,Tarjeta de crédito
+1138,586,Billetera digital
+1139,587,Billetera digital
+1140,587,Tarjeta de crédito
+1141,588,Tarjeta de débito
+1142,589,Transferencia SPEI
+1143,590,Tarjeta de débito
+1144,590,Tarjeta de crédito
+1145,590,Efectivo
+1146,591,Tarjeta de débito
+1147,591,Billetera digital
+1148,591,Tarjeta de crédito
+1149,592,Tarjeta de crédito
+1150,592,Billetera digital
+1151,592,Tarjeta de débito
+1152,593,Billetera digital
+1153,593,Tarjeta de débito
+1154,594,Tarjeta de crédito
+1155,594,Tarjeta de débito
+1156,595,Tarjeta de débito
+1157,595,Transferencia SPEI
+1158,596,Tarjeta de crédito
+1159,596,Tarjeta de débito
+1160,596,Transferencia SPEI
+1161,597,Efectivo
+1162,598,Tarjeta de crédito
+1163,598,Billetera digital
+1164,598,Transferencia SPEI
+1165,599,Billetera digital
+1166,599,Transferencia SPEI
+1167,600,Billetera digital
+1168,600,Efectivo
+1169,601,Transferencia SPEI
+1170,601,Tarjeta de débito
+1171,602,Tarjeta de crédito
+1172,602,Billetera digital
+1173,603,Tarjeta de crédito
+1174,604,Transferencia SPEI
+1175,604,Efectivo
+1176,605,Transferencia SPEI
+1177,605,Efectivo
+1178,606,Billetera digital
+1179,606,Tarjeta de débito
+1180,606,Transferencia SPEI
+1181,607,Transferencia SPEI
+1182,607,Tarjeta de débito
+1183,607,Billetera digital
+1184,608,Billetera digital
+1185,608,Efectivo
+1186,609,Billetera digital
+1187,610,Transferencia SPEI
+1188,610,Tarjeta de débito
+1189,610,Billetera digital
+1190,611,Efectivo
+1191,611,Transferencia SPEI
+1192,611,Tarjeta de débito
+1193,612,Transferencia SPEI
+1194,613,Tarjeta de débito
+1195,613,Billetera digital
+1196,613,Transferencia SPEI
+1197,614,Tarjeta de débito
+1198,615,Transferencia SPEI
+1199,615,Efectivo
+1200,615,Tarjeta de débito
+1201,616,Tarjeta de crédito
+1202,617,Tarjeta de débito
+1203,617,Efectivo
+1204,617,Transferencia SPEI
+1205,618,Tarjeta de crédito
+1206,618,Transferencia SPEI
+1207,618,Efectivo
+1208,619,Tarjeta de débito
+1209,619,Transferencia SPEI
+1210,619,Efectivo
+1211,620,Billetera digital
+1212,620,Tarjeta de crédito
+1213,621,Tarjeta de crédito
+1214,621,Tarjeta de débito
+1215,622,Billetera digital
+1216,622,Efectivo
+1217,622,Tarjeta de crédito
+1218,623,Tarjeta de débito
+1219,624,Billetera digital
+1220,624,Transferencia SPEI
+1221,625,Efectivo
+1222,625,Tarjeta de débito
+1223,626,Efectivo
+1224,626,Transferencia SPEI
+1225,626,Billetera digital
+1226,627,Tarjeta de crédito
+1227,627,Tarjeta de débito
+1228,627,Efectivo
+1229,628,Tarjeta de débito
+1230,628,Tarjeta de crédito
+1231,629,Tarjeta de débito
+1232,629,Tarjeta de crédito
+1233,629,Billetera digital
+1234,630,Tarjeta de débito
+1235,630,Tarjeta de crédito
+1236,631,Transferencia SPEI
+1237,632,Tarjeta de crédito
+1238,632,Transferencia SPEI
+1239,633,Tarjeta de crédito
+1240,633,Billetera digital
+1241,633,Efectivo
+1242,634,Billetera digital
+1243,634,Tarjeta de crédito
+1244,635,Tarjeta de débito
+1245,635,Efectivo
+1246,635,Transferencia SPEI
+1247,636,Tarjeta de crédito
+1248,636,Efectivo
+1249,636,Tarjeta de débito
+1250,637,Tarjeta de crédito
+1251,637,Tarjeta de débito
+1252,637,Billetera digital
+1253,638,Tarjeta de crédito
+1254,639,Transferencia SPEI
+1255,639,Tarjeta de crédito
+1256,640,Billetera digital
+1257,641,Billetera digital
+1258,641,Tarjeta de débito
+1259,642,Billetera digital
+1260,642,Transferencia SPEI
+1261,643,Tarjeta de crédito
+1262,643,Transferencia SPEI
+1263,644,Tarjeta de débito
+1264,645,Tarjeta de crédito
+1265,645,Tarjeta de débito
+1266,646,Billetera digital
+1267,647,Transferencia SPEI
+1268,648,Tarjeta de crédito
+1269,648,Tarjeta de débito
+1270,648,Transferencia SPEI
+1271,649,Transferencia SPEI
+1272,650,Efectivo
+1273,651,Tarjeta de débito
+1274,651,Transferencia SPEI
+1275,651,Billetera digital
+1276,652,Efectivo
+1277,652,Tarjeta de débito
+1278,652,Transferencia SPEI
+1279,653,Billetera digital
+1280,654,Billetera digital
+1281,654,Tarjeta de débito
+1282,655,Transferencia SPEI
+1283,655,Tarjeta de débito
+1284,655,Tarjeta de crédito
+1285,656,Tarjeta de débito
+1286,656,Transferencia SPEI
+1287,657,Tarjeta de débito
+1288,657,Tarjeta de crédito
+1289,657,Transferencia SPEI
+1290,658,Tarjeta de crédito
+1291,658,Billetera digital
+1292,659,Billetera digital
+1293,659,Transferencia SPEI
+1294,659,Efectivo
+1295,660,Tarjeta de débito
+1296,660,Transferencia SPEI
+1297,660,Tarjeta de crédito
+1298,661,Billetera digital
+1299,661,Efectivo
+1300,662,Tarjeta de crédito
+1301,662,Tarjeta de débito
+1302,662,Transferencia SPEI
+1303,663,Efectivo
+1304,664,Tarjeta de débito
+1305,664,Tarjeta de crédito
+1306,664,Efectivo
+1307,665,Tarjeta de débito
+1308,665,Tarjeta de crédito
+1309,666,Tarjeta de crédito
+1310,666,Transferencia SPEI
+1311,666,Tarjeta de débito
+1312,667,Billetera digital
+1313,667,Tarjeta de débito
+1314,668,Tarjeta de débito
+1315,669,Billetera digital
+1316,669,Tarjeta de crédito
+1317,670,Tarjeta de crédito
+1318,670,Tarjeta de débito
+1319,671,Tarjeta de débito
+1320,672,Tarjeta de crédito
+1321,672,Efectivo
+1322,673,Transferencia SPEI
+1323,673,Tarjeta de crédito
+1324,673,Tarjeta de débito
+1325,674,Tarjeta de crédito
+1326,674,Tarjeta de débito
+1327,675,Tarjeta de crédito
+1328,676,Efectivo
+1329,676,Tarjeta de débito
+1330,677,Billetera digital
+1331,677,Transferencia SPEI
+1332,677,Tarjeta de débito
+1333,678,Billetera digital
+1334,679,Tarjeta de crédito
+1335,680,Efectivo
+1336,680,Billetera digital
+1337,681,Efectivo
+1338,681,Tarjeta de débito
+1339,682,Tarjeta de crédito
+1340,682,Billetera digital
+1341,683,Tarjeta de débito
+1342,684,Transferencia SPEI
+1343,684,Efectivo
+1344,685,Transferencia SPEI
+1345,686,Transferencia SPEI
+1346,686,Billetera digital
+1347,687,Efectivo
+1348,687,Tarjeta de débito
+1349,688,Tarjeta de débito
+1350,689,Billetera digital
+1351,690,Transferencia SPEI
+1352,691,Tarjeta de débito
+1353,691,Transferencia SPEI
+1354,692,Tarjeta de crédito
+1355,692,Efectivo
+1356,693,Tarjeta de débito
+1357,693,Tarjeta de crédito
+1358,694,Tarjeta de débito
+1359,695,Tarjeta de crédito
+1360,695,Transferencia SPEI
+1361,696,Billetera digital
+1362,697,Tarjeta de crédito
+1363,697,Efectivo
+1364,698,Efectivo
+1365,699,Billetera digital
+1366,700,Transferencia SPEI
+1367,700,Billetera digital
+1368,700,Tarjeta de crédito
+1369,701,Billetera digital
+1370,701,Efectivo
+1371,702,Tarjeta de crédito
+1372,702,Transferencia SPEI
+1373,703,Tarjeta de crédito
+1374,703,Transferencia SPEI
+1375,704,Transferencia SPEI
+1376,704,Efectivo
+1377,705,Tarjeta de crédito
+1378,705,Efectivo
+1379,705,Tarjeta de débito
+1380,706,Tarjeta de crédito
+1381,707,Billetera digital
+1382,707,Transferencia SPEI
+1383,708,Tarjeta de crédito
+1384,709,Billetera digital
+1385,710,Tarjeta de débito
+1386,710,Tarjeta de crédito
+1387,711,Tarjeta de débito
+1388,711,Transferencia SPEI
+1389,712,Billetera digital
+1390,713,Tarjeta de débito
+1391,713,Billetera digital
+1392,713,Tarjeta de crédito
+1393,714,Transferencia SPEI
+1394,715,Tarjeta de débito
+1395,715,Tarjeta de crédito
+1396,715,Efectivo
+1397,716,Billetera digital
+1398,716,Transferencia SPEI
+1399,717,Billetera digital
+1400,717,Efectivo
+1401,718,Transferencia SPEI
+1402,718,Billetera digital
+1403,718,Tarjeta de débito
+1404,719,Tarjeta de crédito
+1405,719,Transferencia SPEI
+1406,719,Efectivo
+1407,720,Tarjeta de crédito
+1408,721,Efectivo
+1409,721,Tarjeta de débito
+1410,722,Tarjeta de crédito
+1411,722,Efectivo
+1412,723,Transferencia SPEI
+1413,723,Billetera digital
+1414,723,Tarjeta de débito
+1415,724,Tarjeta de crédito
+1416,724,Efectivo
+1417,724,Tarjeta de débito
+1418,725,Tarjeta de crédito
+1419,726,Billetera digital
+1420,726,Efectivo
+1421,726,Tarjeta de crédito
+1422,727,Billetera digital
+1423,727,Efectivo
+1424,728,Tarjeta de débito
+1425,728,Billetera digital
+1426,729,Tarjeta de crédito
+1427,729,Tarjeta de débito
+1428,730,Efectivo
+1429,730,Tarjeta de débito
+1430,731,Transferencia SPEI
+1431,731,Billetera digital
+1432,732,Tarjeta de crédito
+1433,733,Tarjeta de crédito
+1434,733,Efectivo
+1435,733,Tarjeta de débito
+1436,734,Tarjeta de débito
+1437,735,Billetera digital
+1438,736,Tarjeta de crédito
+1439,736,Billetera digital
+1440,737,Tarjeta de débito
+1441,737,Billetera digital
+1442,737,Transferencia SPEI
+1443,738,Tarjeta de crédito
+1444,739,Efectivo
+1445,739,Transferencia SPEI
+1446,739,Tarjeta de débito
+1447,740,Transferencia SPEI
+1448,741,Tarjeta de crédito
+1449,741,Tarjeta de débito
+1450,742,Tarjeta de crédito
+1451,742,Efectivo
+1452,743,Tarjeta de débito
+1453,743,Tarjeta de crédito
+1454,744,Tarjeta de débito
+1455,744,Billetera digital
+1456,745,Tarjeta de débito
+1457,745,Efectivo
+1458,746,Billetera digital
+1459,746,Transferencia SPEI
+1460,747,Billetera digital
+1461,747,Transferencia SPEI
+1462,748,Billetera digital
+1463,748,Efectivo
+1464,748,Transferencia SPEI
+1465,749,Tarjeta de débito
+1466,749,Billetera digital
+1467,750,Tarjeta de débito
+1468,750,Tarjeta de crédito
+1469,750,Transferencia SPEI
+1470,751,Tarjeta de crédito
+1471,751,Tarjeta de débito
+1472,752,Tarjeta de crédito
+1473,752,Tarjeta de débito
+1474,753,Tarjeta de crédito
+1475,753,Transferencia SPEI
+1476,753,Tarjeta de débito
+1477,754,Transferencia SPEI
+1478,754,Tarjeta de crédito
+1479,755,Billetera digital
+1480,755,Tarjeta de débito
+1481,756,Tarjeta de crédito
+1482,756,Billetera digital
+1483,756,Transferencia SPEI
+1484,757,Billetera digital
+1485,758,Tarjeta de débito
+1486,758,Efectivo
+1487,759,Tarjeta de débito
+1488,759,Efectivo
+1489,760,Billetera digital
+1490,760,Efectivo
+1491,761,Tarjeta de crédito
+1492,761,Transferencia SPEI
+1493,761,Tarjeta de débito
+1494,762,Tarjeta de crédito
+1495,762,Efectivo
+1496,763,Tarjeta de crédito
+1497,763,Billetera digital
+1498,763,Tarjeta de débito
+1499,764,Tarjeta de débito
+1500,764,Tarjeta de crédito
+1501,764,Transferencia SPEI
+1502,765,Transferencia SPEI
+1503,766,Tarjeta de débito
+1504,767,Transferencia SPEI
+1505,768,Tarjeta de débito
+1506,768,Billetera digital
+1507,769,Tarjeta de débito
+1508,769,Billetera digital
+1509,769,Efectivo
+1510,770,Billetera digital
+1511,770,Efectivo
+1512,771,Efectivo
+1513,771,Tarjeta de débito
+1514,772,Tarjeta de débito
+1515,772,Tarjeta de crédito
+1516,773,Tarjeta de crédito
+1517,773,Billetera digital
+1518,773,Efectivo
+1519,774,Billetera digital
+1520,774,Efectivo
+1521,775,Billetera digital
+1522,776,Efectivo
+1523,776,Tarjeta de débito
+1524,777,Efectivo
+1525,778,Tarjeta de crédito
+1526,778,Transferencia SPEI
+1527,778,Tarjeta de débito
+1528,779,Tarjeta de débito
+1529,779,Transferencia SPEI
+1530,779,Efectivo
+1531,780,Billetera digital
+1532,780,Tarjeta de crédito
+1533,780,Tarjeta de débito
+1534,781,Tarjeta de débito
+1535,781,Tarjeta de crédito
+1536,782,Transferencia SPEI
+1537,783,Tarjeta de débito
+1538,784,Tarjeta de crédito
+1539,784,Billetera digital
+1540,785,Efectivo
+1541,785,Billetera digital
+1542,786,Billetera digital
+1543,786,Tarjeta de débito
+1544,786,Transferencia SPEI
+1545,787,Transferencia SPEI
+1546,787,Tarjeta de crédito
+1547,787,Billetera digital
+1548,788,Tarjeta de débito
+1549,788,Billetera digital
+1550,788,Tarjeta de crédito
+1551,789,Efectivo
+1552,790,Transferencia SPEI
+1553,791,Transferencia SPEI
+1554,792,Transferencia SPEI
+1555,792,Tarjeta de débito
+1556,793,Tarjeta de crédito
+1557,793,Efectivo
+1558,794,Tarjeta de crédito
+1559,794,Billetera digital
+1560,795,Tarjeta de débito
+1561,795,Billetera digital
+1562,795,Tarjeta de crédito
+1563,796,Tarjeta de crédito
+1564,796,Tarjeta de débito
+1565,796,Billetera digital
+1566,797,Tarjeta de débito
+1567,797,Efectivo
+1568,798,Billetera digital
+1569,799,Tarjeta de crédito
+1570,800,Billetera digital
+1571,801,Transferencia SPEI
+1572,802,Transferencia SPEI
+1573,802,Tarjeta de débito
+1574,803,Tarjeta de débito
+1575,804,Tarjeta de débito
+1576,804,Billetera digital
+1577,804,Tarjeta de crédito
+1578,805,Transferencia SPEI
+1579,805,Tarjeta de débito
+1580,806,Efectivo
+1581,806,Tarjeta de crédito
+1582,806,Billetera digital
+1583,807,Tarjeta de débito
+1584,808,Tarjeta de débito
+1585,808,Billetera digital
+1586,809,Efectivo
+1587,809,Tarjeta de crédito
+1588,810,Billetera digital
+1589,810,Transferencia SPEI
+1590,810,Tarjeta de débito
+1591,811,Tarjeta de débito
+1592,812,Tarjeta de crédito
+1593,812,Tarjeta de débito
+1594,813,Transferencia SPEI
+1595,814,Billetera digital
+1596,814,Tarjeta de crédito
+1597,815,Tarjeta de crédito
+1598,816,Billetera digital
+1599,816,Efectivo
+1600,816,Tarjeta de crédito
+1601,817,Billetera digital
+1602,818,Tarjeta de débito
+1603,819,Tarjeta de débito
+1604,819,Tarjeta de crédito
+1605,820,Transferencia SPEI
+1606,820,Efectivo
+1607,820,Tarjeta de crédito
+1608,821,Billetera digital
+1609,821,Tarjeta de crédito
+1610,821,Efectivo
+1611,822,Tarjeta de crédito
+1612,823,Tarjeta de débito
+1613,823,Transferencia SPEI
+1614,824,Billetera digital
+1615,824,Efectivo
+1616,825,Efectivo
+1617,825,Transferencia SPEI
+1618,825,Tarjeta de crédito
+1619,826,Tarjeta de crédito
+1620,827,Efectivo
+1621,827,Billetera digital
+1622,828,Efectivo
+1623,828,Billetera digital
+1624,829,Billetera digital
+1625,829,Efectivo
+1626,830,Tarjeta de débito
+1627,830,Efectivo
+1628,830,Tarjeta de crédito
+1629,831,Tarjeta de débito
+1630,831,Billetera digital
+1631,832,Tarjeta de débito
+1632,832,Billetera digital
+1633,833,Tarjeta de crédito
+1634,833,Tarjeta de débito
+1635,834,Efectivo
+1636,834,Billetera digital
+1637,834,Tarjeta de débito
+1638,835,Tarjeta de débito
+1639,836,Billetera digital
+1640,836,Transferencia SPEI
+1641,837,Billetera digital
+1642,837,Tarjeta de débito
+1643,838,Billetera digital
+1644,839,Tarjeta de débito
+1645,839,Transferencia SPEI
+1646,839,Billetera digital
+1647,840,Tarjeta de débito
+1648,841,Tarjeta de débito
+1649,841,Billetera digital
+1650,841,Tarjeta de crédito
+1651,842,Efectivo
+1652,842,Transferencia SPEI
+1653,842,Billetera digital
+1654,843,Billetera digital
+1655,843,Efectivo
+1656,844,Billetera digital
+1657,844,Tarjeta de débito
+1658,844,Transferencia SPEI
+1659,845,Tarjeta de débito
+1660,845,Tarjeta de crédito
+1661,846,Transferencia SPEI
+1662,847,Billetera digital
+1663,847,Tarjeta de débito
+1664,848,Tarjeta de crédito
+1665,848,Transferencia SPEI
+1666,849,Transferencia SPEI
+1667,849,Tarjeta de crédito
+1668,849,Efectivo
+1669,850,Tarjeta de débito
+1670,850,Billetera digital
+1671,851,Tarjeta de crédito
+1672,851,Transferencia SPEI
+1673,852,Efectivo
+1674,852,Transferencia SPEI
+1675,853,Tarjeta de débito
+1676,854,Tarjeta de crédito
+1677,855,Tarjeta de débito
+1678,856,Efectivo
+1679,856,Tarjeta de débito
+1680,857,Tarjeta de débito
+1681,857,Efectivo
+1682,858,Billetera digital
+1683,858,Efectivo
+1684,859,Transferencia SPEI
+1685,859,Tarjeta de débito
+1686,860,Billetera digital
+1687,860,Tarjeta de crédito
+1688,860,Transferencia SPEI
+1689,861,Tarjeta de débito
+1690,862,Transferencia SPEI
+1691,862,Efectivo
+1692,862,Tarjeta de crédito
+1693,863,Transferencia SPEI
+1694,863,Tarjeta de débito
+1695,863,Efectivo
+1696,864,Tarjeta de crédito
+1697,865,Billetera digital
+1698,866,Efectivo
+1699,866,Billetera digital
+1700,867,Efectivo
+1701,867,Tarjeta de débito
+1702,867,Billetera digital
+1703,868,Tarjeta de crédito
+1704,868,Billetera digital
+1705,868,Tarjeta de débito
+1706,869,Transferencia SPEI
+1707,870,Transferencia SPEI
+1708,871,Billetera digital
+1709,872,Tarjeta de débito
+1710,873,Tarjeta de débito
+1711,873,Tarjeta de crédito
+1712,873,Billetera digital
+1713,874,Tarjeta de crédito
+1714,874,Efectivo
+1715,874,Transferencia SPEI
+1716,875,Billetera digital
+1717,876,Tarjeta de crédito
+1718,876,Billetera digital
+1719,876,Transferencia SPEI
+1720,877,Billetera digital
+1721,877,Transferencia SPEI
+1722,877,Tarjeta de débito
+1723,878,Tarjeta de débito
+1724,879,Billetera digital
+1725,880,Billetera digital
+1726,880,Tarjeta de débito
+1727,880,Efectivo
+1728,881,Tarjeta de débito
+1729,882,Efectivo
+1730,882,Transferencia SPEI
+1731,883,Efectivo
+1732,883,Tarjeta de débito
+1733,883,Tarjeta de crédito
+1734,884,Billetera digital
+1735,884,Tarjeta de débito
+1736,884,Efectivo
+1737,885,Transferencia SPEI
+1738,885,Tarjeta de débito
+1739,885,Tarjeta de crédito
+1740,886,Tarjeta de crédito
+1741,886,Transferencia SPEI
+1742,886,Tarjeta de débito
+1743,887,Billetera digital
+1744,888,Billetera digital
+1745,888,Tarjeta de débito
+1746,888,Tarjeta de crédito
+1747,889,Tarjeta de crédito
+1748,890,Tarjeta de débito
+1749,890,Efectivo
+1750,891,Tarjeta de crédito
+1751,892,Tarjeta de crédito
+1752,892,Efectivo
+1753,892,Tarjeta de débito
+1754,893,Billetera digital
+1755,894,Tarjeta de débito
+1756,894,Tarjeta de crédito
+1757,895,Billetera digital
+1758,896,Transferencia SPEI
+1759,896,Tarjeta de crédito
+1760,897,Billetera digital
+1761,898,Billetera digital
+1762,898,Tarjeta de débito
+1763,898,Efectivo
+1764,899,Efectivo
+1765,899,Tarjeta de crédito
+1766,899,Tarjeta de débito
+1767,900,Transferencia SPEI
+1768,900,Tarjeta de débito
+1769,901,Efectivo
+1770,902,Tarjeta de crédito
+1771,902,Billetera digital
+1772,903,Billetera digital
+1773,904,Tarjeta de débito
+1774,905,Tarjeta de débito
+1775,905,Billetera digital
+1776,906,Tarjeta de débito
+1777,906,Efectivo
+1778,907,Tarjeta de crédito
+1779,907,Tarjeta de débito
+1780,908,Efectivo
+1781,909,Billetera digital
+1782,910,Tarjeta de débito
+1783,911,Billetera digital
+1784,911,Transferencia SPEI
+1785,912,Billetera digital
+1786,912,Tarjeta de débito
+1787,913,Billetera digital
+1788,913,Transferencia SPEI
+1789,914,Efectivo
+1790,915,Tarjeta de crédito
+1791,915,Billetera digital
+1792,916,Billetera digital
+1793,916,Tarjeta de crédito
+1794,917,Billetera digital
+1795,918,Transferencia SPEI
+1796,918,Efectivo
+1797,919,Tarjeta de crédito
+1798,919,Tarjeta de débito
+1799,920,Tarjeta de crédito
+1800,920,Efectivo
+1801,920,Tarjeta de débito
+1802,921,Transferencia SPEI
+1803,921,Tarjeta de crédito
+1804,921,Billetera digital
+1805,922,Tarjeta de débito
+1806,922,Tarjeta de crédito
+1807,923,Tarjeta de débito
+1808,923,Billetera digital
+1809,924,Transferencia SPEI
+1810,924,Tarjeta de crédito
+1811,925,Tarjeta de crédito
+1812,925,Transferencia SPEI
+1813,926,Tarjeta de débito
+1814,927,Billetera digital
+1815,928,Billetera digital
+1816,929,Tarjeta de débito
+1817,929,Billetera digital
+1818,930,Tarjeta de débito
+1819,931,Tarjeta de débito
+1820,932,Efectivo
+1821,932,Tarjeta de débito
+1822,932,Transferencia SPEI
+1823,933,Transferencia SPEI
+1824,933,Billetera digital
+1825,933,Tarjeta de crédito
+1826,934,Tarjeta de crédito
+1827,934,Tarjeta de débito
+1828,935,Tarjeta de débito
+1829,936,Efectivo
+1830,936,Tarjeta de débito
+1831,937,Transferencia SPEI
+1832,938,Transferencia SPEI
+1833,938,Tarjeta de débito
+1834,939,Efectivo
+1835,939,Tarjeta de crédito
+1836,940,Tarjeta de débito
+1837,940,Transferencia SPEI
+1838,940,Efectivo
+1839,941,Tarjeta de crédito
+1840,941,Efectivo
+1841,941,Tarjeta de débito
+1842,942,Tarjeta de crédito
+1843,943,Tarjeta de crédito
+1844,943,Efectivo
+1845,944,Billetera digital
+1846,945,Tarjeta de crédito
+1847,945,Efectivo
+1848,946,Tarjeta de crédito
+1849,947,Transferencia SPEI
+1850,947,Billetera digital
+1851,947,Tarjeta de débito
+1852,948,Tarjeta de crédito
+1853,949,Transferencia SPEI
+1854,949,Efectivo
+1855,950,Tarjeta de débito
+1856,950,Efectivo
+1857,951,Tarjeta de crédito
+1858,952,Billetera digital
+1859,952,Tarjeta de crédito
+1860,952,Efectivo
+1861,953,Transferencia SPEI
+1862,953,Tarjeta de crédito
+1863,954,Transferencia SPEI
+1864,955,Billetera digital
+1865,956,Tarjeta de crédito
+1866,956,Tarjeta de débito
+1867,956,Efectivo
+1868,957,Billetera digital
+1869,958,Efectivo
+1870,958,Tarjeta de débito
+1871,959,Tarjeta de débito
+1872,960,Tarjeta de crédito
+1873,960,Tarjeta de débito
+1874,960,Efectivo
+1875,961,Tarjeta de crédito
+1876,962,Efectivo
+1877,962,Billetera digital
+1878,962,Tarjeta de crédito
+1879,963,Efectivo
+1880,963,Billetera digital
+1881,964,Tarjeta de débito
+1882,964,Efectivo
+1883,964,Tarjeta de crédito
+1884,965,Efectivo
+1885,965,Billetera digital
+1886,966,Transferencia SPEI
+1887,966,Tarjeta de débito
+1888,967,Transferencia SPEI
+1889,968,Billetera digital
+1890,968,Tarjeta de crédito
+1891,969,Tarjeta de débito
+1892,969,Billetera digital
+1893,970,Efectivo
+1894,971,Transferencia SPEI
+1895,971,Tarjeta de crédito
+1896,972,Tarjeta de débito
+1897,972,Tarjeta de crédito
+1898,972,Efectivo
+1899,973,Efectivo
+1900,973,Tarjeta de crédito
+1901,974,Tarjeta de débito
+1902,974,Billetera digital
+1903,974,Tarjeta de crédito
+1904,975,Transferencia SPEI
+1905,975,Tarjeta de débito
+1906,976,Tarjeta de débito
+1907,976,Efectivo
+1908,976,Tarjeta de crédito
+1909,977,Tarjeta de débito
+1910,977,Tarjeta de crédito
+1911,978,Transferencia SPEI
+1912,978,Billetera digital
+1913,978,Efectivo
+1914,979,Tarjeta de débito
+1915,980,Billetera digital
+1916,980,Transferencia SPEI
+1917,980,Tarjeta de débito
+1918,981,Billetera digital
+1919,981,Transferencia SPEI
+1920,982,Tarjeta de débito
+1921,982,Transferencia SPEI
+1922,983,Efectivo
+1923,983,Tarjeta de crédito
+1924,984,Tarjeta de débito
+1925,984,Tarjeta de crédito
+1926,985,Tarjeta de débito
+1927,985,Transferencia SPEI
+1928,985,Billetera digital
+1929,986,Billetera digital
+1930,986,Efectivo
+1931,986,Tarjeta de crédito
+1932,987,Tarjeta de débito
+1933,987,Billetera digital
+1934,988,Tarjeta de crédito
+1935,989,Billetera digital
+1936,989,Tarjeta de crédito
+1937,990,Tarjeta de débito
+1938,991,Tarjeta de débito
+1939,992,Efectivo
+1940,992,Billetera digital
+1941,993,Efectivo
+1942,993,Transferencia SPEI
+1943,994,Efectivo
+1944,994,Tarjeta de débito
+1945,995,Transferencia SPEI
+1946,996,Efectivo
+1947,997,Transferencia SPEI
+1948,997,Tarjeta de débito
+1949,998,Efectivo
+1950,998,Billetera digital
+1951,999,Efectivo
+1952,999,Tarjeta de débito
+1953,1000,Transferencia SPEI
+1954,1000,Tarjeta de débito
